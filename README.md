@@ -8,3 +8,8 @@ Sensor Ultrassônico
 LCD 16x2
 Barra roscada 5mm
 Peças de impressão 3D 
+
+
+
+https://github.com/andrenasc3835/Esteira-sensor-contagem/assets/160709788/8a23ba71-8b54-49a2-ab9c-6d002294012b
+
